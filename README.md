@@ -6,7 +6,7 @@
 That's the !(first) version of this game (23/08/2020) and my first videogame project!
 All designs are own, but free to use.
 
-I'm not gonna lie to you: the game have some bugs yet. If you find any, please send me a message or send me a pull request in the [GitHub repository](https://github.com/Adrian-2105/Tetris_Cpp_SFML).
+I'm not gonna lie to you: the game have some bugs yet. If you find any, please send me a message or send me a pull request in the [GitHub repository](https://github.com/Adrian-2105/Tetris-Cpp_SFML).
 
 One last thing: I encourage you to find the easter egg there is ;) \
 (It is not worth looking at the game files to find out :B)
