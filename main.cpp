@@ -58,7 +58,7 @@ int main() {
     sans.setTexture(t);
     sans.setPosition(387, 189);
     SoundBuffer megalovania_b;
-    megalovania_b.loadFromFile("./resources/audio/megalovania.wav");
+    megalovania_b.loadFromFile("./resources/audio/megalovania.ogg");
     Sound megalovania;
     megalovania.setBuffer(megalovania_b);
     megalovania.setLoop(true);
