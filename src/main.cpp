@@ -1,7 +1,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
-#include "include/Menu.h"
-#include "include/Game.h"
+#include "../include/Menu.h"
+#include "../include/Game.h"
 
 using namespace sf;
 using namespace std;
